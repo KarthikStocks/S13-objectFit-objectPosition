@@ -1,0 +1,63 @@
+.rakeshPic {
+  width: 379px;
+  height: 400px;
+  border: 3px dashed palevioletred;
+  background-color: chartreuse;
+  margin: 20px;
+}
+
+.rakesh1 {
+  object-fit: fill;
+  /* width: 200px; */
+}
+
+.rakesh2 {
+  object-fit: contain;
+  /* width: 200px; */
+}
+
+.rakesh3 {
+  object-fit: cover;
+  object-position: -323px 0px;
+}
+
+.rakesh4 {
+  object-fit: none;
+  object-position: 43px 0px;
+}
+
+.rakesh5 {
+  object-fit: scale-down;
+}
+
+.warren3 {
+  width: 450px;
+  height: 450px;
+  margin: 20px;
+}
+
+.warren1 {
+  object-position: 20px -140px;
+  object-fit: none;
+}
+
+.warren2 {
+  object-position: -383px -11px;
+  object-fit: none;
+}
+
+.mainHeading h1 {
+  font-size: 45px;
+  color: deeppink;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.5));
+}
+
+.mainHeading {
+  text-align: center;
+}
+
+.indexBody {
+  background-color: ghostwhite;
+}
